@@ -1,0 +1,44 @@
+.p{
+    font-size: 5px;
+    text-decoration: solid;
+    font-family: Arial;
+}
+
+.card{
+    width:10rem ;
+    /* background-color: #212529; */
+    /* height: 10rem; */
+    margin-top: 10px;
+}
+.leftside{
+    background-color: #121212;
+     color: white; 
+    width: 20vw; 
+     margin: 3px ;
+     margin-left: 10px;
+     border-radius:15px;
+     min-height: 200vh;
+     height: 10vh;
+    border-top-left-radius:15px ;
+}
+
+
+ .rightside{
+    background-color: #121212;
+    color: white;
+    width: 80vw;
+    margin:3px;
+    margin-right:10px;
+    border-radius:15px 
+}  
+   
+.style.icon{
+   
+    height: 98px;
+    width:98px;
+    border-radius: 100%;
+} 
+.text{
+    opacity: 0.5;
+    transition: opacity 0.3s ease;
+}
